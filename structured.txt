@@ -1,0 +1,3 @@
+http://www.ico.org/coffee_prices.asp
+
+Clicking on each month gives the prices of different groups of coffee and the International Coffee Organization composite indicator price for every day that month. To better assess how the price of coffee changes over time, I could take the average price from each group per month and put these prices into a data spreadsheet. The data could be compared to other trends in the economy that month or that year and to data on the imports and exports of coffee.
